@@ -10,7 +10,7 @@ This is the parent portal into current and previous projects. I use this site fo
 * GitHub Actions
 * Release/Versioning
 * AWS Elastic Beanstalk
-1
+
 ### Software:
 * Python 3.9.6
 * Django 3.2.6
