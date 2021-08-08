@@ -53,3 +53,8 @@ You must have VirtualBox and Vagrant installed on your system. *
   * to use the Hostname, you will likely have to update your system's hosts file
 
 \* Note: Please refer to your OSs documentation on how to set up a git environment on your workstation/laptop. Mine always run latest Ubuntu LTS, and this is all configured out-of-the-box.
+
+## Looking to Contribute?
+Perfect. Please push your PRs my way.
+
+I've set up a CONTRIBUTING.md document at the root of this repository with instructions on how to fork and create a PR.
